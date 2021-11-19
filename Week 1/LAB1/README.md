@@ -133,14 +133,6 @@ Authentication type:  f. I selected Password, I couldnt SSH into my Kali termina
 
 
 
-
-
-
-i
-
-
-
-
 # Lab 1: Create a Linux virtual machine with the Azure CLI
 
 1. Launch Azure Cloud Shell
